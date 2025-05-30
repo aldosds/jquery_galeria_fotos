@@ -1,0 +1,20 @@
+# Galeria de Fotos
+
+Criada com HTML, CSS e jQuary. <br>
+Link: https://ass-jquery-galeria-fotos.vercel.app/
+
+**Modo Desktop**
+
+**_Sem o formulário para adicionar imagem_<br>**
+**_Para adicionar uma imagem clique em NOVA IMAGEM_**
+
+<P align="center">
+<img src="./images/readme/sem-form.png">
+</p>
+<br/>
+
+**_Com o formulário para adicionar imagem_**
+
+<P align="center">
+<img src="./images/readme/com-form.png">
+</p>
