@@ -1,6 +1,6 @@
 # Galeria de Fotos
 
-Criada com HTML, CSS e jQuary. <br>
+Criada com HTML, CSS e jQuery. <br>
 Link: https://ass-jquery-galeria-fotos.vercel.app/
 
 **Modo Desktop**
